@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/965c8c4d-99c8-4468-9178-a15bf82d945e
 
 
 
-pip (comes with Python)
+
 
 ## ✨ Key Features
 
