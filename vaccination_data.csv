@@ -1,0 +1,501 @@
+district,village,child_id,vaccine_type,date,age_group,gender,coverage_percentage
+Gurdaspur,Village_00,CH0000,DPT3,2024-03-23,0-12 months,Male,71.1
+Hoshiarpur,Village_01,CH0001,Polio,2024-04-08,12-24 months,Male,80.6
+Mohali,Village_02,CH0002,Polio,2024-05-01,12-24 months,Female,87.4
+Mohali,Village_03,CH0003,Polio,2024-12-25,0-12 months,Male,87.8
+Faridkot,Village_04,CH0004,Hepatitis B,2024-03-12,0-12 months,Female,64.7
+Kapurthala,Village_05,CH0005,DPT2,2024-05-19,0-12 months,Male,72.7
+Kapurthala,Village_06,CH0006,MMR,2024-10-21,12-24 months,Female,67.8
+Gurdaspur,Village_07,CH0007,DPT3,2024-08-15,0-12 months,Female,89.0
+Amritsar,Village_08,CH0008,DPT3,2024-06-22,12-24 months,Female,89.5
+Mohali,Village_09,CH0009,Polio,2024-02-26,12-24 months,Female,86.4
+Faridkot,Village_10,CH0010,Measles,2024-08-14,0-12 months,Female,73.4
+Kapurthala,Village_11,CH0011,Measles,2024-08-21,12-24 months,Male,86.6
+Ludhiana,Village_12,CH0012,MMR,2024-12-28,12-24 months,Male,85.3
+Kapurthala,Village_13,CH0013,Polio,2024-01-25,0-12 months,Male,92.5
+Hoshiarpur,Village_14,CH0014,BCG,2024-03-03,0-12 months,Male,82.7
+Bathinda,Village_15,CH0015,DPT1,2024-07-26,0-12 months,Female,82.1
+Gurdaspur,Village_16,CH0016,BCG,2024-07-23,12-24 months,Female,67.9
+Bathinda,Village_17,CH0017,DPT2,2024-12-08,12-24 months,Male,83.8
+Jalandhar,Village_18,CH0018,BCG,2024-03-01,0-12 months,Female,84.6
+Gurdaspur,Village_19,CH0019,MMR,2024-07-27,0-12 months,Male,79.4
+Faridkot,Village_20,CH0020,DPT1,2024-07-17,12-24 months,Male,61.0
+Patiala,Village_21,CH0021,Measles,2024-05-23,0-12 months,Male,84.8
+Patiala,Village_22,CH0022,Polio,2024-06-28,12-24 months,Female,85.3
+Kapurthala,Village_23,CH0023,Polio,2024-06-28,12-24 months,Female,80.6
+Patiala,Village_24,CH0024,Measles,2024-07-28,0-12 months,Male,84.2
+Amritsar,Village_25,CH0025,BCG,2024-09-27,12-24 months,Male,91.0
+Patiala,Village_26,CH0026,Polio,2024-05-01,0-12 months,Female,65.8
+Hoshiarpur,Village_27,CH0027,MMR,2024-11-22,12-24 months,Female,80.8
+Hoshiarpur,Village_28,CH0028,BCG,2024-10-20,12-24 months,Female,72.7
+Gurdaspur,Village_29,CH0029,DPT1,2024-03-17,0-12 months,Male,78.8
+Hoshiarpur,Village_30,CH0030,BCG,2024-01-01,0-12 months,Female,74.5
+Ludhiana,Village_31,CH0031,Polio,2024-12-26,12-24 months,Female,88.3
+Gurdaspur,Village_32,CH0032,DPT3,2024-01-06,12-24 months,Male,78.3
+Patiala,Village_33,CH0033,DPT1,2024-06-22,0-12 months,Male,81.5
+Amritsar,Village_34,CH0034,BCG,2024-03-20,12-24 months,Male,77.1
+Patiala,Village_35,CH0035,DPT2,2024-10-03,0-12 months,Male,82.5
+Patiala,Village_36,CH0036,Hepatitis B,2024-08-01,0-12 months,Female,90.4
+Kapurthala,Village_37,CH0037,BCG,2024-02-23,0-12 months,Female,64.2
+Faridkot,Village_38,CH0038,DPT2,2024-09-20,12-24 months,Male,67.0
+Ludhiana,Village_39,CH0039,BCG,2024-12-05,0-12 months,Female,84.8
+Gurdaspur,Village_40,CH0040,BCG,2024-03-20,12-24 months,Female,87.7
+Hoshiarpur,Village_41,CH0041,BCG,2024-08-20,0-12 months,Male,69.5
+Hoshiarpur,Village_42,CH0042,DPT3,2024-03-16,12-24 months,Male,79.8
+Jalandhar,Village_43,CH0043,BCG,2024-02-14,12-24 months,Female,88.8
+Mohali,Village_44,CH0044,DPT2,2024-01-04,0-12 months,Female,82.5
+Bathinda,Village_45,CH0045,Hepatitis B,2024-04-24,12-24 months,Female,80.3
+Gurdaspur,Village_46,CH0046,DPT2,2024-12-27,0-12 months,Female,86.6
+Gurdaspur,Village_47,CH0047,Measles,2024-06-06,0-12 months,Male,95.2
+Mohali,Village_48,CH0048,Hepatitis B,2024-01-28,0-12 months,Female,100.0
+Amritsar,Village_49,CH0049,Polio,2024-12-16,0-12 months,Female,89.3
+Jalandhar,Village_00,CH0050,Hepatitis B,2024-12-14,0-12 months,Female,73.4
+Jalandhar,Village_01,CH0051,DPT3,2024-09-05,12-24 months,Male,85.9
+Amritsar,Village_02,CH0052,Measles,2024-05-23,0-12 months,Female,81.4
+Jalandhar,Village_03,CH0053,Hepatitis B,2024-02-25,12-24 months,Male,88.2
+Mohali,Village_04,CH0054,DPT1,2024-07-02,0-12 months,Male,97.1
+Faridkot,Village_05,CH0055,DPT1,2024-10-17,12-24 months,Male,63.4
+Kapurthala,Village_06,CH0056,DPT2,2024-10-23,12-24 months,Male,87.6
+Ludhiana,Village_07,CH0057,BCG,2024-08-13,12-24 months,Female,100.0
+Gurdaspur,Village_08,CH0058,BCG,2024-08-14,12-24 months,Female,70.5
+Jalandhar,Village_09,CH0059,MMR,2024-12-02,12-24 months,Female,86.0
+Gurdaspur,Village_10,CH0060,MMR,2024-06-26,12-24 months,Female,79.7
+Amritsar,Village_11,CH0061,DPT3,2024-10-06,0-12 months,Female,80.7
+Bathinda,Village_12,CH0062,BCG,2024-12-05,0-12 months,Female,70.7
+Mohali,Village_13,CH0063,Polio,2024-04-15,0-12 months,Male,98.2
+Hoshiarpur,Village_14,CH0064,DPT3,2024-10-23,12-24 months,Male,67.5
+Faridkot,Village_15,CH0065,Polio,2024-07-09,12-24 months,Male,56.1
+Amritsar,Village_16,CH0066,DPT1,2024-06-16,0-12 months,Female,84.1
+Bathinda,Village_17,CH0067,BCG,2024-07-05,12-24 months,Male,81.7
+Gurdaspur,Village_18,CH0068,DPT2,2024-05-22,0-12 months,Male,74.2
+Bathinda,Village_19,CH0069,MMR,2024-01-14,12-24 months,Female,64.8
+Bathinda,Village_20,CH0070,DPT3,2024-05-23,12-24 months,Female,70.6
+Mohali,Village_21,CH0071,Polio,2024-04-02,12-24 months,Male,100.0
+Faridkot,Village_22,CH0072,DPT1,2024-08-05,0-12 months,Female,72.0
+Hoshiarpur,Village_23,CH0073,Hepatitis B,2024-07-02,0-12 months,Female,84.0
+Patiala,Village_24,CH0074,Hepatitis B,2024-01-01,0-12 months,Male,93.0
+Bathinda,Village_25,CH0075,DPT3,2024-03-01,0-12 months,Female,89.5
+Faridkot,Village_26,CH0076,DPT2,2024-01-26,12-24 months,Male,74.2
+Faridkot,Village_27,CH0077,DPT1,2024-10-02,0-12 months,Male,67.0
+Gurdaspur,Village_28,CH0078,DPT3,2024-11-24,12-24 months,Male,71.7
+Bathinda,Village_29,CH0079,Polio,2024-09-04,12-24 months,Male,85.6
+Kapurthala,Village_30,CH0080,Hepatitis B,2024-07-24,0-12 months,Female,69.7
+Bathinda,Village_31,CH0081,DPT3,2024-01-23,0-12 months,Male,65.2
+Kapurthala,Village_32,CH0082,DPT2,2024-06-13,0-12 months,Male,94.4
+Amritsar,Village_33,CH0083,DPT3,2024-12-09,0-12 months,Female,85.2
+Kapurthala,Village_34,CH0084,MMR,2024-04-19,12-24 months,Male,84.8
+Bathinda,Village_35,CH0085,Polio,2024-03-12,0-12 months,Female,77.1
+Bathinda,Village_36,CH0086,DPT3,2024-12-09,12-24 months,Female,89.5
+Amritsar,Village_37,CH0087,Polio,2024-06-07,12-24 months,Male,88.2
+Hoshiarpur,Village_38,CH0088,DPT1,2024-02-05,0-12 months,Male,85.1
+Mohali,Village_39,CH0089,DPT2,2024-08-16,0-12 months,Male,90.1
+Mohali,Village_40,CH0090,DPT3,2024-04-04,12-24 months,Female,94.3
+Jalandhar,Village_41,CH0091,Polio,2024-12-22,0-12 months,Male,80.5
+Faridkot,Village_42,CH0092,DPT1,2024-02-28,12-24 months,Female,66.2
+Patiala,Village_43,CH0093,DPT3,2024-08-09,0-12 months,Male,72.0
+Jalandhar,Village_44,CH0094,Polio,2024-12-17,0-12 months,Female,77.7
+Amritsar,Village_45,CH0095,Measles,2024-05-06,12-24 months,Female,73.6
+Bathinda,Village_46,CH0096,Hepatitis B,2024-05-04,0-12 months,Male,76.8
+Patiala,Village_47,CH0097,BCG,2024-02-15,0-12 months,Male,87.1
+Amritsar,Village_48,CH0098,Polio,2024-07-25,0-12 months,Female,77.8
+Faridkot,Village_49,CH0099,Hepatitis B,2024-08-06,12-24 months,Female,84.2
+Bathinda,Village_00,CH0100,Hepatitis B,2024-08-26,12-24 months,Female,78.7
+Bathinda,Village_01,CH0101,BCG,2024-04-27,12-24 months,Male,66.7
+Amritsar,Village_02,CH0102,BCG,2024-12-16,0-12 months,Male,92.6
+Jalandhar,Village_03,CH0103,Polio,2024-06-18,0-12 months,Female,77.4
+Bathinda,Village_04,CH0104,MMR,2024-05-23,12-24 months,Male,76.1
+Mohali,Village_05,CH0105,BCG,2024-02-15,0-12 months,Male,100.0
+Bathinda,Village_06,CH0106,DPT1,2024-11-17,0-12 months,Male,77.7
+Ludhiana,Village_07,CH0107,BCG,2024-03-01,0-12 months,Female,88.3
+Gurdaspur,Village_08,CH0108,Measles,2024-05-06,0-12 months,Male,82.7
+Gurdaspur,Village_09,CH0109,Polio,2024-05-05,12-24 months,Female,95.3
+Jalandhar,Village_10,CH0110,BCG,2024-01-19,0-12 months,Male,76.1
+Patiala,Village_11,CH0111,Measles,2024-01-17,12-24 months,Female,81.8
+Ludhiana,Village_12,CH0112,DPT3,2024-03-27,12-24 months,Female,61.2
+Amritsar,Village_13,CH0113,Measles,2024-12-05,12-24 months,Female,82.9
+Kapurthala,Village_14,CH0114,BCG,2024-02-11,0-12 months,Male,89.2
+Mohali,Village_15,CH0115,Hepatitis B,2024-12-02,12-24 months,Female,100.0
+Ludhiana,Village_16,CH0116,DPT1,2024-02-20,0-12 months,Female,79.5
+Amritsar,Village_17,CH0117,Hepatitis B,2024-12-23,12-24 months,Male,68.7
+Amritsar,Village_18,CH0118,Polio,2024-01-10,0-12 months,Female,83.4
+Patiala,Village_19,CH0119,Hepatitis B,2024-05-02,12-24 months,Male,98.4
+Ludhiana,Village_20,CH0120,Polio,2024-11-19,0-12 months,Male,92.0
+Gurdaspur,Village_21,CH0121,MMR,2024-11-22,12-24 months,Female,69.0
+Patiala,Village_22,CH0122,Hepatitis B,2024-03-27,0-12 months,Female,81.0
+Ludhiana,Village_23,CH0123,Polio,2024-10-19,0-12 months,Male,100.0
+Bathinda,Village_24,CH0124,DPT1,2024-05-06,0-12 months,Male,68.5
+Kapurthala,Village_25,CH0125,DPT3,2024-10-14,12-24 months,Male,79.5
+Faridkot,Village_26,CH0126,Polio,2024-09-22,0-12 months,Female,67.0
+Amritsar,Village_27,CH0127,DPT1,2024-04-01,12-24 months,Male,82.8
+Jalandhar,Village_28,CH0128,Polio,2024-08-22,12-24 months,Female,82.2
+Gurdaspur,Village_29,CH0129,Measles,2024-08-02,0-12 months,Female,82.5
+Hoshiarpur,Village_30,CH0130,DPT2,2024-11-15,12-24 months,Male,82.6
+Ludhiana,Village_31,CH0131,DPT1,2024-06-03,0-12 months,Male,91.5
+Kapurthala,Village_32,CH0132,MMR,2024-09-17,0-12 months,Female,82.5
+Faridkot,Village_33,CH0133,Measles,2024-12-25,0-12 months,Male,71.6
+Patiala,Village_34,CH0134,BCG,2024-02-15,12-24 months,Male,95.4
+Mohali,Village_35,CH0135,DPT1,2024-08-08,0-12 months,Female,97.2
+Jalandhar,Village_36,CH0136,DPT1,2024-10-02,0-12 months,Female,75.0
+Mohali,Village_37,CH0137,Polio,2024-09-01,0-12 months,Female,80.9
+Bathinda,Village_38,CH0138,Measles,2024-11-24,0-12 months,Male,73.4
+Gurdaspur,Village_39,CH0139,DPT2,2024-03-08,0-12 months,Female,61.8
+Hoshiarpur,Village_40,CH0140,MMR,2024-11-04,0-12 months,Female,79.4
+Mohali,Village_41,CH0141,BCG,2024-08-06,0-12 months,Female,99.3
+Kapurthala,Village_42,CH0142,DPT1,2024-03-13,12-24 months,Male,100.0
+Mohali,Village_43,CH0143,DPT1,2024-06-04,0-12 months,Female,100.0
+Amritsar,Village_44,CH0144,DPT3,2024-10-14,12-24 months,Female,81.3
+Bathinda,Village_45,CH0145,Measles,2024-11-04,0-12 months,Male,72.5
+Jalandhar,Village_46,CH0146,BCG,2024-05-23,12-24 months,Female,76.0
+Ludhiana,Village_47,CH0147,Polio,2024-08-02,12-24 months,Male,71.9
+Bathinda,Village_48,CH0148,BCG,2024-08-06,0-12 months,Male,79.2
+Amritsar,Village_49,CH0149,Polio,2024-12-12,12-24 months,Female,96.5
+Bathinda,Village_00,CH0150,Hepatitis B,2024-06-28,12-24 months,Male,80.3
+Hoshiarpur,Village_01,CH0151,DPT2,2024-09-05,12-24 months,Female,76.5
+Jalandhar,Village_02,CH0152,Polio,2024-10-04,0-12 months,Male,77.4
+Faridkot,Village_03,CH0153,BCG,2024-02-08,12-24 months,Male,66.6
+Hoshiarpur,Village_04,CH0154,Measles,2024-01-23,0-12 months,Male,80.0
+Amritsar,Village_05,CH0155,BCG,2024-01-01,0-12 months,Male,91.4
+Ludhiana,Village_06,CH0156,Measles,2024-03-07,0-12 months,Female,70.7
+Faridkot,Village_07,CH0157,Hepatitis B,2024-04-15,0-12 months,Male,83.5
+Amritsar,Village_08,CH0158,DPT3,2024-06-25,0-12 months,Male,88.8
+Bathinda,Village_09,CH0159,DPT2,2024-07-01,12-24 months,Female,87.7
+Mohali,Village_10,CH0160,DPT1,2024-01-22,12-24 months,Male,95.8
+Patiala,Village_11,CH0161,Polio,2024-08-20,12-24 months,Male,89.7
+Hoshiarpur,Village_12,CH0162,Polio,2024-02-27,0-12 months,Male,57.4
+Jalandhar,Village_13,CH0163,DPT3,2024-04-26,0-12 months,Male,78.9
+Bathinda,Village_14,CH0164,DPT3,2024-10-14,0-12 months,Female,60.8
+Faridkot,Village_15,CH0165,Polio,2024-08-18,0-12 months,Male,84.0
+Hoshiarpur,Village_16,CH0166,DPT3,2024-04-05,12-24 months,Male,71.0
+Hoshiarpur,Village_17,CH0167,MMR,2024-10-17,12-24 months,Male,79.6
+Faridkot,Village_18,CH0168,BCG,2024-08-09,12-24 months,Male,84.7
+Gurdaspur,Village_19,CH0169,BCG,2024-05-21,12-24 months,Female,75.9
+Patiala,Village_20,CH0170,Measles,2024-06-23,0-12 months,Female,83.2
+Bathinda,Village_21,CH0171,MMR,2024-09-21,0-12 months,Female,82.6
+Patiala,Village_22,CH0172,BCG,2024-11-06,12-24 months,Male,93.8
+Ludhiana,Village_23,CH0173,DPT2,2024-02-27,0-12 months,Female,70.4
+Jalandhar,Village_24,CH0174,Measles,2024-06-21,12-24 months,Male,81.9
+Amritsar,Village_25,CH0175,Polio,2024-11-22,12-24 months,Female,74.4
+Ludhiana,Village_26,CH0176,Polio,2024-09-17,12-24 months,Female,92.6
+Mohali,Village_27,CH0177,DPT3,2024-08-17,0-12 months,Male,92.1
+Gurdaspur,Village_28,CH0178,DPT2,2024-01-13,0-12 months,Female,81.6
+Hoshiarpur,Village_29,CH0179,DPT2,2024-02-01,12-24 months,Male,76.8
+Ludhiana,Village_30,CH0180,DPT1,2024-06-19,0-12 months,Female,76.7
+Amritsar,Village_31,CH0181,Hepatitis B,2024-07-07,0-12 months,Female,100.0
+Faridkot,Village_32,CH0182,DPT1,2024-01-23,0-12 months,Female,72.5
+Ludhiana,Village_33,CH0183,MMR,2024-08-01,0-12 months,Male,96.6
+Jalandhar,Village_34,CH0184,Hepatitis B,2024-08-22,0-12 months,Male,82.2
+Bathinda,Village_35,CH0185,DPT2,2024-03-01,12-24 months,Male,63.7
+Hoshiarpur,Village_36,CH0186,DPT1,2024-04-20,0-12 months,Female,88.0
+Bathinda,Village_37,CH0187,Measles,2024-07-16,12-24 months,Male,78.4
+Faridkot,Village_38,CH0188,MMR,2024-03-04,0-12 months,Female,77.5
+Ludhiana,Village_39,CH0189,DPT1,2024-01-15,0-12 months,Female,92.7
+Faridkot,Village_40,CH0190,MMR,2024-12-20,0-12 months,Male,82.5
+Mohali,Village_41,CH0191,Hepatitis B,2024-09-02,0-12 months,Female,78.0
+Jalandhar,Village_42,CH0192,DPT3,2024-11-14,0-12 months,Female,83.3
+Amritsar,Village_43,CH0193,DPT1,2024-03-17,12-24 months,Male,77.2
+Hoshiarpur,Village_44,CH0194,DPT1,2024-06-22,0-12 months,Female,67.2
+Patiala,Village_45,CH0195,DPT1,2024-10-13,12-24 months,Male,92.9
+Bathinda,Village_46,CH0196,DPT2,2024-10-04,0-12 months,Female,76.0
+Ludhiana,Village_47,CH0197,BCG,2024-05-25,12-24 months,Female,99.5
+Gurdaspur,Village_48,CH0198,Polio,2024-09-21,0-12 months,Female,93.0
+Amritsar,Village_49,CH0199,DPT1,2024-05-28,12-24 months,Female,97.6
+Ludhiana,Village_00,CH0200,DPT3,2024-05-11,12-24 months,Male,90.2
+Patiala,Village_01,CH0201,BCG,2024-11-07,12-24 months,Male,85.2
+Mohali,Village_02,CH0202,DPT1,2024-06-05,12-24 months,Male,96.2
+Faridkot,Village_03,CH0203,DPT3,2024-04-19,0-12 months,Female,71.1
+Amritsar,Village_04,CH0204,Measles,2024-09-09,12-24 months,Male,81.2
+Amritsar,Village_05,CH0205,BCG,2024-11-08,12-24 months,Male,100.0
+Gurdaspur,Village_06,CH0206,DPT2,2024-12-19,12-24 months,Female,84.0
+Ludhiana,Village_07,CH0207,DPT3,2024-03-05,12-24 months,Male,93.3
+Amritsar,Village_08,CH0208,Polio,2024-01-15,12-24 months,Female,90.3
+Hoshiarpur,Village_09,CH0209,DPT2,2024-08-21,0-12 months,Male,86.1
+Bathinda,Village_10,CH0210,Measles,2024-02-25,12-24 months,Male,75.3
+Faridkot,Village_11,CH0211,BCG,2024-10-15,12-24 months,Female,72.1
+Gurdaspur,Village_12,CH0212,BCG,2024-10-07,12-24 months,Male,82.2
+Bathinda,Village_13,CH0213,MMR,2024-09-19,12-24 months,Female,64.8
+Ludhiana,Village_14,CH0214,DPT2,2024-04-07,0-12 months,Female,88.7
+Faridkot,Village_15,CH0215,MMR,2024-01-14,0-12 months,Female,77.5
+Jalandhar,Village_16,CH0216,DPT3,2024-07-23,12-24 months,Male,73.7
+Hoshiarpur,Village_17,CH0217,BCG,2024-04-22,0-12 months,Male,88.2
+Ludhiana,Village_18,CH0218,BCG,2024-02-23,0-12 months,Female,91.1
+Ludhiana,Village_19,CH0219,Measles,2024-11-23,0-12 months,Male,96.1
+Ludhiana,Village_20,CH0220,Hepatitis B,2024-12-15,0-12 months,Female,100.0
+Kapurthala,Village_21,CH0221,MMR,2024-07-20,0-12 months,Male,78.8
+Amritsar,Village_22,CH0222,DPT2,2024-02-04,12-24 months,Female,70.1
+Bathinda,Village_23,CH0223,BCG,2024-01-21,12-24 months,Male,72.6
+Kapurthala,Village_24,CH0224,MMR,2024-12-27,12-24 months,Male,96.4
+Bathinda,Village_25,CH0225,DPT2,2024-12-06,0-12 months,Female,67.0
+Hoshiarpur,Village_26,CH0226,DPT2,2024-08-20,0-12 months,Male,77.2
+Mohali,Village_27,CH0227,Polio,2024-03-13,12-24 months,Female,92.4
+Ludhiana,Village_28,CH0228,BCG,2024-03-24,12-24 months,Male,84.0
+Bathinda,Village_29,CH0229,Measles,2024-07-17,0-12 months,Male,70.6
+Patiala,Village_30,CH0230,DPT1,2024-03-18,12-24 months,Female,73.4
+Amritsar,Village_31,CH0231,Hepatitis B,2024-03-03,12-24 months,Male,86.4
+Hoshiarpur,Village_32,CH0232,Polio,2024-05-02,0-12 months,Male,96.9
+Hoshiarpur,Village_33,CH0233,DPT2,2024-11-28,0-12 months,Male,85.5
+Jalandhar,Village_34,CH0234,BCG,2024-11-27,12-24 months,Female,86.1
+Mohali,Village_35,CH0235,Hepatitis B,2024-11-05,12-24 months,Female,90.4
+Ludhiana,Village_36,CH0236,Measles,2024-03-24,12-24 months,Female,96.3
+Hoshiarpur,Village_37,CH0237,DPT2,2024-01-06,12-24 months,Male,78.3
+Hoshiarpur,Village_38,CH0238,DPT3,2024-09-21,12-24 months,Female,84.6
+Mohali,Village_39,CH0239,DPT3,2024-07-05,0-12 months,Male,96.1
+Faridkot,Village_40,CH0240,BCG,2024-07-18,12-24 months,Female,69.0
+Gurdaspur,Village_41,CH0241,DPT1,2024-11-17,0-12 months,Male,73.3
+Hoshiarpur,Village_42,CH0242,MMR,2024-03-07,12-24 months,Male,76.2
+Ludhiana,Village_43,CH0243,MMR,2024-12-28,0-12 months,Female,90.5
+Bathinda,Village_44,CH0244,Polio,2024-04-18,12-24 months,Male,70.6
+Amritsar,Village_45,CH0245,DPT3,2024-06-17,12-24 months,Female,88.9
+Amritsar,Village_46,CH0246,Measles,2024-02-14,12-24 months,Male,81.2
+Patiala,Village_47,CH0247,DPT2,2024-03-20,0-12 months,Female,88.0
+Gurdaspur,Village_48,CH0248,Polio,2024-10-23,12-24 months,Female,92.5
+Ludhiana,Village_49,CH0249,Polio,2024-04-17,0-12 months,Male,88.5
+Kapurthala,Village_00,CH0250,MMR,2024-11-20,12-24 months,Female,94.4
+Patiala,Village_01,CH0251,Measles,2024-11-27,0-12 months,Male,87.9
+Hoshiarpur,Village_02,CH0252,DPT3,2024-05-27,12-24 months,Female,81.4
+Jalandhar,Village_03,CH0253,BCG,2024-05-03,0-12 months,Male,83.9
+Faridkot,Village_04,CH0254,DPT3,2024-03-17,0-12 months,Female,79.5
+Ludhiana,Village_05,CH0255,MMR,2024-12-16,0-12 months,Female,95.9
+Kapurthala,Village_06,CH0256,BCG,2024-07-03,0-12 months,Female,97.0
+Bathinda,Village_07,CH0257,Hepatitis B,2024-12-26,0-12 months,Female,55.1
+Kapurthala,Village_08,CH0258,Measles,2024-06-16,0-12 months,Female,78.6
+Mohali,Village_09,CH0259,Measles,2024-05-21,12-24 months,Female,100.0
+Hoshiarpur,Village_10,CH0260,DPT2,2024-02-14,0-12 months,Male,93.7
+Mohali,Village_11,CH0261,Hepatitis B,2024-11-13,0-12 months,Male,88.9
+Mohali,Village_12,CH0262,BCG,2024-08-09,0-12 months,Female,91.8
+Kapurthala,Village_13,CH0263,Measles,2024-06-22,12-24 months,Female,79.4
+Amritsar,Village_14,CH0264,DPT1,2024-09-13,12-24 months,Male,85.5
+Patiala,Village_15,CH0265,DPT1,2024-06-07,12-24 months,Female,80.8
+Gurdaspur,Village_16,CH0266,DPT1,2024-02-10,0-12 months,Female,87.9
+Amritsar,Village_17,CH0267,Hepatitis B,2024-11-03,0-12 months,Female,90.0
+Kapurthala,Village_18,CH0268,Measles,2024-09-18,12-24 months,Female,95.8
+Hoshiarpur,Village_19,CH0269,DPT1,2024-12-20,12-24 months,Male,90.2
+Gurdaspur,Village_20,CH0270,DPT2,2024-10-22,12-24 months,Male,80.9
+Jalandhar,Village_21,CH0271,MMR,2024-09-28,12-24 months,Female,89.6
+Ludhiana,Village_22,CH0272,Measles,2024-09-13,0-12 months,Female,100.0
+Jalandhar,Village_23,CH0273,MMR,2024-04-13,12-24 months,Male,90.6
+Gurdaspur,Village_24,CH0274,Polio,2024-02-06,12-24 months,Male,79.8
+Mohali,Village_25,CH0275,Polio,2024-08-09,0-12 months,Male,100.0
+Faridkot,Village_26,CH0276,DPT2,2024-01-07,12-24 months,Male,68.0
+Bathinda,Village_27,CH0277,MMR,2024-10-24,12-24 months,Male,76.7
+Patiala,Village_28,CH0278,DPT3,2024-05-02,12-24 months,Female,74.5
+Ludhiana,Village_29,CH0279,MMR,2024-02-04,12-24 months,Male,100.0
+Faridkot,Village_30,CH0280,DPT2,2024-12-03,0-12 months,Female,78.4
+Hoshiarpur,Village_31,CH0281,Polio,2024-01-03,12-24 months,Female,79.4
+Patiala,Village_32,CH0282,Hepatitis B,2024-02-23,0-12 months,Male,100.0
+Mohali,Village_33,CH0283,Polio,2024-09-22,12-24 months,Male,100.0
+Hoshiarpur,Village_34,CH0284,MMR,2024-06-17,0-12 months,Male,87.2
+Kapurthala,Village_35,CH0285,DPT3,2024-02-03,0-12 months,Male,70.1
+Amritsar,Village_36,CH0286,Hepatitis B,2024-07-15,0-12 months,Male,72.1
+Faridkot,Village_37,CH0287,DPT2,2024-06-14,12-24 months,Female,84.4
+Faridkot,Village_38,CH0288,DPT3,2024-04-08,0-12 months,Female,69.9
+Amritsar,Village_39,CH0289,BCG,2024-06-20,12-24 months,Male,94.9
+Bathinda,Village_40,CH0290,MMR,2024-01-24,12-24 months,Female,72.4
+Mohali,Village_41,CH0291,DPT3,2024-11-20,12-24 months,Female,100.0
+Ludhiana,Village_42,CH0292,BCG,2024-01-23,0-12 months,Female,94.8
+Bathinda,Village_43,CH0293,Polio,2024-11-05,0-12 months,Male,75.4
+Jalandhar,Village_44,CH0294,Measles,2024-02-24,0-12 months,Male,75.0
+Ludhiana,Village_45,CH0295,BCG,2024-02-25,0-12 months,Male,100.0
+Hoshiarpur,Village_46,CH0296,MMR,2024-06-20,0-12 months,Female,61.0
+Patiala,Village_47,CH0297,Hepatitis B,2024-02-10,12-24 months,Male,89.3
+Hoshiarpur,Village_48,CH0298,DPT1,2024-06-05,0-12 months,Female,82.8
+Ludhiana,Village_49,CH0299,BCG,2024-07-23,12-24 months,Male,82.5
+Faridkot,Village_00,CH0300,Measles,2024-08-15,12-24 months,Male,91.2
+Hoshiarpur,Village_01,CH0301,BCG,2024-04-01,0-12 months,Male,77.5
+Bathinda,Village_02,CH0302,Hepatitis B,2024-12-02,12-24 months,Female,68.8
+Mohali,Village_03,CH0303,MMR,2024-09-01,0-12 months,Male,94.4
+Kapurthala,Village_04,CH0304,Polio,2024-04-02,0-12 months,Female,96.9
+Patiala,Village_05,CH0305,Measles,2024-03-06,12-24 months,Female,90.6
+Kapurthala,Village_06,CH0306,MMR,2024-08-22,0-12 months,Male,94.3
+Bathinda,Village_07,CH0307,MMR,2024-01-12,12-24 months,Male,72.9
+Bathinda,Village_08,CH0308,DPT2,2024-01-17,0-12 months,Female,67.1
+Mohali,Village_09,CH0309,DPT1,2024-11-03,12-24 months,Female,74.8
+Faridkot,Village_10,CH0310,DPT1,2024-10-08,12-24 months,Female,54.0
+Mohali,Village_11,CH0311,DPT3,2024-05-26,0-12 months,Female,86.5
+Bathinda,Village_12,CH0312,DPT1,2024-04-15,0-12 months,Female,62.0
+Gurdaspur,Village_13,CH0313,Measles,2024-02-12,0-12 months,Male,81.4
+Bathinda,Village_14,CH0314,MMR,2024-05-28,0-12 months,Male,82.3
+Patiala,Village_15,CH0315,DPT2,2024-03-15,12-24 months,Male,85.7
+Mohali,Village_16,CH0316,DPT2,2024-05-20,12-24 months,Male,91.7
+Jalandhar,Village_17,CH0317,Hepatitis B,2024-10-04,12-24 months,Female,74.4
+Ludhiana,Village_18,CH0318,BCG,2024-12-10,0-12 months,Male,80.5
+Gurdaspur,Village_19,CH0319,MMR,2024-08-17,12-24 months,Male,80.5
+Faridkot,Village_20,CH0320,Hepatitis B,2024-07-22,0-12 months,Female,71.8
+Hoshiarpur,Village_21,CH0321,Polio,2024-10-15,0-12 months,Male,82.4
+Gurdaspur,Village_22,CH0322,Measles,2024-09-26,0-12 months,Male,80.4
+Faridkot,Village_23,CH0323,Hepatitis B,2024-10-25,0-12 months,Female,72.3
+Hoshiarpur,Village_24,CH0324,Hepatitis B,2024-05-04,12-24 months,Female,68.0
+Jalandhar,Village_25,CH0325,DPT3,2024-12-07,12-24 months,Male,76.5
+Ludhiana,Village_26,CH0326,DPT2,2024-02-05,0-12 months,Male,82.3
+Jalandhar,Village_27,CH0327,DPT3,2024-02-01,0-12 months,Male,99.2
+Amritsar,Village_28,CH0328,Measles,2024-12-07,12-24 months,Male,85.4
+Faridkot,Village_29,CH0329,BCG,2024-09-25,12-24 months,Female,70.8
+Jalandhar,Village_30,CH0330,MMR,2024-06-07,0-12 months,Male,75.6
+Gurdaspur,Village_31,CH0331,Hepatitis B,2024-12-14,0-12 months,Female,93.1
+Faridkot,Village_32,CH0332,Measles,2024-04-08,0-12 months,Male,59.0
+Patiala,Village_33,CH0333,DPT2,2024-09-08,0-12 months,Male,91.5
+Mohali,Village_34,CH0334,BCG,2024-12-02,12-24 months,Male,83.8
+Bathinda,Village_35,CH0335,Hepatitis B,2024-06-08,12-24 months,Male,91.6
+Mohali,Village_36,CH0336,DPT3,2024-06-02,0-12 months,Female,82.6
+Ludhiana,Village_37,CH0337,Measles,2024-01-03,12-24 months,Male,79.1
+Patiala,Village_38,CH0338,Hepatitis B,2024-05-13,0-12 months,Male,80.4
+Kapurthala,Village_39,CH0339,MMR,2024-10-25,0-12 months,Female,85.3
+Amritsar,Village_40,CH0340,Hepatitis B,2024-07-28,0-12 months,Female,93.7
+Mohali,Village_41,CH0341,Polio,2024-04-08,12-24 months,Female,96.9
+Amritsar,Village_42,CH0342,BCG,2024-06-18,12-24 months,Male,79.8
+Amritsar,Village_43,CH0343,Polio,2024-12-06,12-24 months,Female,87.2
+Patiala,Village_44,CH0344,BCG,2024-09-21,12-24 months,Male,81.5
+Kapurthala,Village_45,CH0345,BCG,2024-01-11,0-12 months,Female,74.6
+Gurdaspur,Village_46,CH0346,DPT1,2024-03-22,0-12 months,Male,83.1
+Mohali,Village_47,CH0347,DPT3,2024-05-20,12-24 months,Female,100.0
+Amritsar,Village_48,CH0348,DPT1,2024-08-10,12-24 months,Female,100.0
+Mohali,Village_49,CH0349,DPT2,2024-07-20,12-24 months,Male,97.4
+Bathinda,Village_00,CH0350,DPT2,2024-02-14,12-24 months,Female,79.3
+Faridkot,Village_01,CH0351,BCG,2024-02-25,0-12 months,Female,64.8
+Amritsar,Village_02,CH0352,DPT3,2024-06-14,0-12 months,Female,76.8
+Jalandhar,Village_03,CH0353,DPT2,2024-09-06,0-12 months,Male,84.4
+Bathinda,Village_04,CH0354,DPT1,2024-12-13,0-12 months,Female,79.1
+Patiala,Village_05,CH0355,DPT1,2024-12-06,12-24 months,Male,87.4
+Ludhiana,Village_06,CH0356,DPT3,2024-05-19,12-24 months,Female,78.5
+Kapurthala,Village_07,CH0357,DPT1,2024-11-18,0-12 months,Male,71.5
+Hoshiarpur,Village_08,CH0358,MMR,2024-12-01,12-24 months,Female,73.1
+Gurdaspur,Village_09,CH0359,Hepatitis B,2024-01-05,0-12 months,Female,77.6
+Patiala,Village_10,CH0360,Polio,2024-07-18,0-12 months,Male,91.0
+Patiala,Village_11,CH0361,MMR,2024-03-07,0-12 months,Female,100.0
+Mohali,Village_12,CH0362,Measles,2024-05-23,12-24 months,Female,88.8
+Bathinda,Village_13,CH0363,Measles,2024-06-15,0-12 months,Female,65.7
+Gurdaspur,Village_14,CH0364,DPT1,2024-05-26,12-24 months,Male,83.7
+Bathinda,Village_15,CH0365,Polio,2024-02-05,0-12 months,Female,65.5
+Patiala,Village_16,CH0366,BCG,2024-05-20,12-24 months,Male,88.0
+Bathinda,Village_17,CH0367,DPT1,2024-04-02,12-24 months,Female,67.2
+Ludhiana,Village_18,CH0368,Hepatitis B,2024-06-10,0-12 months,Female,92.5
+Amritsar,Village_19,CH0369,BCG,2024-01-24,0-12 months,Male,94.6
+Amritsar,Village_20,CH0370,DPT1,2024-10-18,12-24 months,Female,72.2
+Hoshiarpur,Village_21,CH0371,Polio,2024-12-11,0-12 months,Female,74.7
+Hoshiarpur,Village_22,CH0372,DPT2,2024-01-28,0-12 months,Female,65.9
+Jalandhar,Village_23,CH0373,Polio,2024-12-01,0-12 months,Male,79.8
+Hoshiarpur,Village_24,CH0374,Polio,2024-03-24,0-12 months,Male,86.7
+Patiala,Village_25,CH0375,Polio,2024-08-26,0-12 months,Female,91.6
+Patiala,Village_26,CH0376,DPT2,2024-10-05,0-12 months,Female,82.1
+Mohali,Village_27,CH0377,Hepatitis B,2024-08-10,12-24 months,Male,100.0
+Amritsar,Village_28,CH0378,MMR,2024-09-02,0-12 months,Female,79.5
+Jalandhar,Village_29,CH0379,BCG,2024-04-04,12-24 months,Male,87.7
+Kapurthala,Village_30,CH0380,BCG,2024-02-10,0-12 months,Female,79.3
+Hoshiarpur,Village_31,CH0381,DPT1,2024-06-13,0-12 months,Female,78.3
+Ludhiana,Village_32,CH0382,DPT2,2024-08-27,12-24 months,Female,82.4
+Faridkot,Village_33,CH0383,BCG,2024-02-22,12-24 months,Female,73.6
+Patiala,Village_34,CH0384,Polio,2024-01-24,0-12 months,Male,86.6
+Faridkot,Village_35,CH0385,Hepatitis B,2024-07-07,0-12 months,Female,88.3
+Kapurthala,Village_36,CH0386,MMR,2024-05-08,12-24 months,Female,90.7
+Gurdaspur,Village_37,CH0387,MMR,2024-12-11,12-24 months,Female,73.5
+Mohali,Village_38,CH0388,DPT2,2024-02-02,0-12 months,Male,94.4
+Patiala,Village_39,CH0389,DPT2,2024-02-15,0-12 months,Male,73.3
+Hoshiarpur,Village_40,CH0390,DPT3,2024-01-24,0-12 months,Male,80.5
+Mohali,Village_41,CH0391,DPT2,2024-07-07,12-24 months,Male,100.0
+Kapurthala,Village_42,CH0392,Hepatitis B,2024-10-16,12-24 months,Male,74.5
+Bathinda,Village_43,CH0393,DPT2,2024-01-04,12-24 months,Male,73.1
+Faridkot,Village_44,CH0394,DPT1,2024-07-27,0-12 months,Female,74.1
+Kapurthala,Village_45,CH0395,Hepatitis B,2024-09-20,12-24 months,Female,72.8
+Faridkot,Village_46,CH0396,DPT1,2024-09-02,0-12 months,Male,74.5
+Patiala,Village_47,CH0397,DPT2,2024-03-23,12-24 months,Female,89.6
+Jalandhar,Village_48,CH0398,Polio,2024-04-20,12-24 months,Female,79.7
+Mohali,Village_49,CH0399,DPT2,2024-10-05,12-24 months,Male,84.5
+Mohali,Village_00,CH0400,Hepatitis B,2024-04-17,0-12 months,Male,88.8
+Patiala,Village_01,CH0401,Polio,2024-03-24,0-12 months,Female,83.7
+Faridkot,Village_02,CH0402,MMR,2024-08-02,12-24 months,Female,70.0
+Jalandhar,Village_03,CH0403,MMR,2024-12-28,0-12 months,Male,82.9
+Jalandhar,Village_04,CH0404,Measles,2024-10-06,0-12 months,Male,90.5
+Patiala,Village_05,CH0405,Hepatitis B,2024-03-16,0-12 months,Female,93.8
+Gurdaspur,Village_06,CH0406,BCG,2024-04-17,0-12 months,Female,73.3
+Kapurthala,Village_07,CH0407,DPT3,2024-06-13,0-12 months,Male,82.9
+Mohali,Village_08,CH0408,DPT3,2024-06-15,12-24 months,Female,81.4
+Gurdaspur,Village_09,CH0409,BCG,2024-10-16,0-12 months,Male,79.9
+Patiala,Village_10,CH0410,Polio,2024-06-13,12-24 months,Male,92.7
+Jalandhar,Village_11,CH0411,Polio,2024-03-10,0-12 months,Female,95.4
+Faridkot,Village_12,CH0412,DPT2,2024-04-17,0-12 months,Female,66.5
+Bathinda,Village_13,CH0413,DPT3,2024-06-26,12-24 months,Female,57.2
+Gurdaspur,Village_14,CH0414,MMR,2024-09-04,12-24 months,Male,57.0
+Mohali,Village_15,CH0415,Measles,2024-12-12,12-24 months,Male,90.7
+Patiala,Village_16,CH0416,Hepatitis B,2024-08-12,12-24 months,Female,84.4
+Mohali,Village_17,CH0417,DPT3,2024-07-03,0-12 months,Female,91.9
+Hoshiarpur,Village_18,CH0418,DPT1,2024-10-25,0-12 months,Female,85.3
+Kapurthala,Village_19,CH0419,Polio,2024-04-24,0-12 months,Female,77.6
+Ludhiana,Village_20,CH0420,DPT1,2024-02-01,0-12 months,Male,73.4
+Mohali,Village_21,CH0421,MMR,2024-02-24,0-12 months,Female,98.3
+Hoshiarpur,Village_22,CH0422,MMR,2024-10-12,12-24 months,Female,75.9
+Kapurthala,Village_23,CH0423,Polio,2024-10-21,12-24 months,Male,91.4
+Jalandhar,Village_24,CH0424,MMR,2024-03-19,0-12 months,Male,84.3
+Kapurthala,Village_25,CH0425,Polio,2024-09-01,12-24 months,Male,73.1
+Patiala,Village_26,CH0426,MMR,2024-07-01,0-12 months,Female,92.1
+Ludhiana,Village_27,CH0427,DPT3,2024-10-11,0-12 months,Male,85.4
+Mohali,Village_28,CH0428,BCG,2024-06-02,0-12 months,Female,85.4
+Bathinda,Village_29,CH0429,Polio,2024-02-22,12-24 months,Male,75.7
+Ludhiana,Village_30,CH0430,DPT1,2024-07-22,12-24 months,Female,70.1
+Hoshiarpur,Village_31,CH0431,Measles,2024-12-27,12-24 months,Male,69.9
+Jalandhar,Village_32,CH0432,MMR,2024-05-20,12-24 months,Male,64.9
+Patiala,Village_33,CH0433,Measles,2024-04-22,0-12 months,Female,86.7
+Hoshiarpur,Village_34,CH0434,Polio,2024-11-09,12-24 months,Female,70.2
+Faridkot,Village_35,CH0435,BCG,2024-02-25,12-24 months,Female,75.7
+Jalandhar,Village_36,CH0436,Hepatitis B,2024-03-06,0-12 months,Female,75.9
+Gurdaspur,Village_37,CH0437,BCG,2024-11-18,0-12 months,Male,67.9
+Bathinda,Village_38,CH0438,DPT2,2024-08-24,12-24 months,Female,70.8
+Kapurthala,Village_39,CH0439,DPT3,2024-05-21,12-24 months,Male,79.9
+Kapurthala,Village_40,CH0440,MMR,2024-06-12,12-24 months,Male,61.9
+Jalandhar,Village_41,CH0441,Polio,2024-03-27,12-24 months,Male,90.5
+Hoshiarpur,Village_42,CH0442,Measles,2024-08-05,12-24 months,Female,75.3
+Bathinda,Village_43,CH0443,DPT3,2024-06-14,12-24 months,Male,71.8
+Kapurthala,Village_44,CH0444,DPT3,2024-01-13,0-12 months,Male,77.1
+Bathinda,Village_45,CH0445,Measles,2024-02-04,12-24 months,Female,84.1
+Faridkot,Village_46,CH0446,MMR,2024-05-25,0-12 months,Male,65.1
+Patiala,Village_47,CH0447,BCG,2024-04-02,12-24 months,Female,89.9
+Bathinda,Village_48,CH0448,DPT2,2024-04-06,12-24 months,Female,77.7
+Jalandhar,Village_49,CH0449,DPT3,2024-12-25,0-12 months,Female,79.6
+Kapurthala,Village_00,CH0450,Polio,2024-12-28,12-24 months,Female,89.9
+Bathinda,Village_01,CH0451,DPT3,2024-08-26,12-24 months,Male,70.5
+Bathinda,Village_02,CH0452,DPT2,2024-02-26,0-12 months,Male,71.9
+Gurdaspur,Village_03,CH0453,Hepatitis B,2024-06-17,0-12 months,Female,72.6
+Jalandhar,Village_04,CH0454,BCG,2024-02-03,12-24 months,Female,85.0
+Gurdaspur,Village_05,CH0455,Measles,2024-09-20,12-24 months,Male,73.7
+Hoshiarpur,Village_06,CH0456,MMR,2024-04-26,0-12 months,Male,85.0
+Mohali,Village_07,CH0457,MMR,2024-05-03,0-12 months,Male,81.2
+Bathinda,Village_08,CH0458,Measles,2024-01-07,0-12 months,Male,77.7
+Ludhiana,Village_09,CH0459,DPT2,2024-01-06,0-12 months,Male,90.8
+Gurdaspur,Village_10,CH0460,DPT2,2024-06-14,12-24 months,Male,78.9
+Hoshiarpur,Village_11,CH0461,Measles,2024-03-19,12-24 months,Male,70.2
+Patiala,Village_12,CH0462,BCG,2024-09-19,12-24 months,Male,85.2
+Jalandhar,Village_13,CH0463,DPT1,2024-03-09,12-24 months,Female,85.4
+Gurdaspur,Village_14,CH0464,Measles,2024-07-25,12-24 months,Male,72.5
+Patiala,Village_15,CH0465,Measles,2024-08-06,0-12 months,Male,95.7
+Patiala,Village_16,CH0466,Hepatitis B,2024-11-21,0-12 months,Male,73.4
+Kapurthala,Village_17,CH0467,DPT3,2024-11-04,12-24 months,Female,88.2
+Ludhiana,Village_18,CH0468,BCG,2024-08-23,12-24 months,Male,79.4
+Amritsar,Village_19,CH0469,Hepatitis B,2024-12-03,0-12 months,Female,74.8
+Ludhiana,Village_20,CH0470,Polio,2024-04-05,0-12 months,Female,83.1
+Amritsar,Village_21,CH0471,Polio,2024-09-09,12-24 months,Male,85.3
+Amritsar,Village_22,CH0472,DPT1,2024-07-15,12-24 months,Female,86.5
+Mohali,Village_23,CH0473,DPT3,2024-09-19,12-24 months,Female,100.0
+Mohali,Village_24,CH0474,Hepatitis B,2024-09-19,12-24 months,Male,91.4
+Gurdaspur,Village_25,CH0475,DPT3,2024-12-04,12-24 months,Female,85.1
+Jalandhar,Village_26,CH0476,Measles,2024-11-23,0-12 months,Male,74.8
+Hoshiarpur,Village_27,CH0477,MMR,2024-06-06,12-24 months,Male,70.6
+Ludhiana,Village_28,CH0478,BCG,2024-11-08,0-12 months,Female,89.8
+Faridkot,Village_29,CH0479,BCG,2024-09-13,0-12 months,Male,68.2
+Hoshiarpur,Village_30,CH0480,Measles,2024-08-17,0-12 months,Male,66.0
+Mohali,Village_31,CH0481,BCG,2024-01-08,0-12 months,Female,98.1
+Amritsar,Village_32,CH0482,DPT1,2024-10-11,12-24 months,Female,65.9
+Kapurthala,Village_33,CH0483,BCG,2024-08-05,0-12 months,Male,72.5
+Amritsar,Village_34,CH0484,Hepatitis B,2024-07-09,0-12 months,Male,93.3
+Jalandhar,Village_35,CH0485,DPT2,2024-01-08,12-24 months,Male,82.7
+Hoshiarpur,Village_36,CH0486,Hepatitis B,2024-01-13,12-24 months,Male,68.5
+Faridkot,Village_37,CH0487,Polio,2024-08-25,0-12 months,Female,78.7
+Gurdaspur,Village_38,CH0488,Measles,2024-02-04,12-24 months,Male,92.9
+Patiala,Village_39,CH0489,DPT1,2024-05-19,0-12 months,Female,94.2
+Hoshiarpur,Village_40,CH0490,DPT3,2024-03-15,0-12 months,Male,76.4
+Ludhiana,Village_41,CH0491,MMR,2024-09-10,12-24 months,Male,95.9
+Faridkot,Village_42,CH0492,Measles,2024-09-07,12-24 months,Male,77.7
+Patiala,Village_43,CH0493,Measles,2024-11-21,12-24 months,Male,88.9
+Mohali,Village_44,CH0494,DPT2,2024-01-09,12-24 months,Female,82.9
+Jalandhar,Village_45,CH0495,DPT2,2024-01-23,0-12 months,Male,82.9
+Faridkot,Village_46,CH0496,Polio,2024-09-23,12-24 months,Male,73.3
+Mohali,Village_47,CH0497,DPT3,2024-05-22,0-12 months,Female,83.8
+Patiala,Village_48,CH0498,DPT2,2024-06-26,12-24 months,Female,87.6
+Ludhiana,Village_49,CH0499,Hepatitis B,2024-03-03,12-24 months,Female,82.6
