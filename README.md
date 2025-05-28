@@ -46,13 +46,12 @@ streamlit run app.py --server.port 5000
 
 **For Manual Setup:**
 - Python 3.11 or higher
-- 
+  
 
 https://github.com/user-attachments/assets/965c8c4d-99c8-4468-9178-a15bf82d945e
 
 
 
-https://github.com/user-attachments/assets/1804d306-e38b-4bb0-b53d-c39ddd8bfe9e
 
 pip (comes with Python)
 
